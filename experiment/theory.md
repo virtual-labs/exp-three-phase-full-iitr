@@ -126,7 +126,7 @@ $$I_{o} = \frac {3\sqrt 3}{\pi R} V_{mp} \ cos⁡\alpha .......(2)$$
 
 </center>
 
-$For$ $ \alpha>60^{\circ} $ <br>
+For &alpha;>60° <br>
 
 <center>
 
