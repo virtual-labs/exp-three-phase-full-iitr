@@ -193,7 +193,7 @@ $$V_{out} = \frac {3\sqrt {3}}{\pi} V_{mp} ~ cos⁡ \alpha .......(5)$$
 
 </center>
 
-The maximum average dc output voltage is obtained for a delay angle $\alpha$ = 0,<br>
+The maximum average dc output voltage is obtained for a delay angle &alpha; = 0,<br>
 
 <center>
 
@@ -243,7 +243,7 @@ $$V_{o~(rms)} = \left[\sqrt {3} V_{m} \left(\frac {1}{2} + \frac {3\sqrt {3}}{4\
 <center><img src="images\RLE load waveform.png" alt="Input waveform" height="700" width="500" style="transform: rotate(0.9deg); -webkit-filter:contrast(150%);"></center><br>
 <center><b>Fig. 7 Waveforms of Three Phase Full Wave SCR with RLE Load</b></center><br>
 
-At $\alpha$ = 0$^{\circ}$, T1 is triggered at &omega;t = &pi;/6, T2 at 90&deg;, T3 at 150&deg; and so on. Therefore, Waveform of the load voltage shown in the figure. For &alpha; = 60&deg;, the conduction sequence of thyristors T1 to
+At &alpha; = 0°, T1 is triggered at &omega;t = &pi;/6, T2 at 90&deg;, T3 at 150&deg; and so on. Therefore, Waveform of the load voltage shown in the figure. For &alpha; = 60&deg;, the conduction sequence of thyristors T1 to
 T6 is shown in figure.
 Here T1 is triggered at &omega;t = 30&deg; + 60&deg; = 90&deg;, T2 at 90&deg; + 60&deg; = 150&deg; and so on. Each
 SCR conducts for 120&deg;, when
